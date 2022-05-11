@@ -1,0 +1,11 @@
+---
+title: Analisis de datos de COVID-19 de Costa Rica mediante funciones del código base
+  de R
+author: "Byron Vargas"
+date: '2022-05-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
